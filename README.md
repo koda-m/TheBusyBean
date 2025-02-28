@@ -4,16 +4,16 @@ A modern, responsive coffee shop website built as a portfolio project. This site
 <br/>
 <h2>🔹 Features</h2>
 <ul>
-  <li>Responsive Design 📱💻 – Optimized for desktop, tablet, and mobile devices.</li>
-  <li>Menu Page 🍵 – Uses CSS Grid/Flexbox for a clean, structured layout.</li>
-  <li>About Page 🌱 – Highlights the shop’s mission, fair-trade coffee sourcing, and local partnerships.</li>
-  <li>Sticky Footer 📌 – Ensures important links remain accessible.</li>
-  <li>Animations & Styling 🎨 – Subtle hover effects and smooth transitions for a polished look.</li>
+  <li><b>Responsive Design 📱💻</b> – Optimized for desktop, tablet, and mobile devices.</li>
+  <li><b>Menu Page 🍵</b> – Uses CSS Grid/Flexbox for a clean, structured layout.</li>
+  <li><b>About Page 🌱</b> – Highlights the shop’s mission, fair-trade coffee sourcing, and local partnerships.</li>
+  <li><b>Sticky Footer 📌</b> – Ensures important links remain accessible.</li>
+  <li><b>Animations & Styling 🎨</b> – Subtle hover effects and smooth transitions for a polished look.</li>
 </ul>
 
 <h2>🛠️ Technologies Used</h2>
 <ul>
-  <li>HTML5 – Semantic structure for accessibility & SEO.</li>
-  <li>CSS3 – Custom styling, Flexbox/Grid for layout, media queries for responsiveness.</li>
-  <li>JavaScript (Optional, if used) – Any interactive elements, such as a dynamic menu filter or animations.</li>
+  <li><b>HTML5</b> – Semantic structure for accessibility & SEO.</li>
+  <li><b>CSS3</b> – Custom styling, Flexbox/Grid for layout, media queries for responsiveness.</li>
+  <li><b>JavaScript</b> – Any interactive elements, such as a dynamic menu filter or animations.</li>
 </ul>
