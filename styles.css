@@ -1,0 +1,137 @@
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #a38e7f;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3c2413;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #432c14;
+}
+
+body {
+	background-color: #a38e7f;
+	color: #3c2413;
+	font-size: 1.1rem;
+}
+
+footer {
+	position: relative;
+    bottom: 0;
+    left: 0;
+	padding: 10px 20px;
+    background: #3c2413;
+    color: #baafa1;
+    width: auto;
+	font-size: 1rem;
+}
+
+.favicon-credit {
+	float: right;
+	color: #baafa1;
+	text-decoration: none;
+}
+
+.sitemap-link {
+	color: #baafa1;
+	text-decoration: none;
+}
+
+img {
+	width: 100%;
+	border-radius: 15px;
+	max-height: 500px;
+}
+
+.name {
+	font-family: "Caveat", serif;
+	font-size: 1.6rem;
+}
+
+h1, h2, h3 {
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+	max-width: 90%;
+	margin: auto;
+}
+
+.img-left {
+	width: 50%;
+	height: auto;
+}
+
+#beans{
+	max-width: 80%;
+}
+
+.ingredients{
+	max-width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.menu {
+	text-align:center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 90%;
+    margin: auto;
+}
+
+.menu-item {
+    width: 250px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    flex: 1 1 calc(33.333% - 20px);
+    max-width: 250px;
+}
+
+.menu-item h3 {
+	margin: 10px 0;
+	color: #6b4226;
+}
+
+.menu-item p {
+	margin: 5px 0;
+	color: #444;
+}
+
+#sitemap {
+	max-width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sitemap-links a {
+	color: #3c2413;
+	text-decoration: none;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  footer {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+	}		
+}
