@@ -1,5 +1,4 @@
 <h1>☕ Coffee Shop Website - The Busy Bean</h1>
-<br/>
 A modern, responsive coffee shop website built as a portfolio project. This site showcases a fictional café, featuring a welcoming homepage, an about page, a full menu, and contact information. The goal of this project was to practice HTML, CSS, and responsive web design while demonstrating UI/UX principles for a real-world business.
 
 <br/>
@@ -12,7 +11,6 @@ A modern, responsive coffee shop website built as a portfolio project. This site
   <li>Animations & Styling 🎨 – Subtle hover effects and smooth transitions for a polished look.</li>
 </ul>
 
-<br/>
 <h2>🛠️ Technologies Used</h2>
 <ul>
   <li>HTML5 – Semantic structure for accessibility & SEO.</li>
