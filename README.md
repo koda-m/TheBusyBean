@@ -15,5 +15,6 @@ A modern, responsive coffee shop website built as a portfolio project. This site
 <ul>
   <li><b>HTML5</b> – Semantic structure for accessibility & SEO.</li>
   <li><b>CSS3</b> – Custom styling, Flexbox/Grid for layout, media queries for responsiveness.</li>
+  <Li><b>Bootstrap 5</b> – Responsive grid, pre-styled components, and layout enhancements.</Li>
   <li><b>JavaScript</b> – Any interactive elements, such as a dynamic menu filter or animations.</li>
 </ul>
