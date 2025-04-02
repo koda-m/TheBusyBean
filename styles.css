@@ -53,8 +53,36 @@ img {
 	font-size: 1.6rem;
 }
 
+.name-font {
+	font-family: "Caveat", serif;
+}
+
 h1, h2, h3 {
 	text-align: center;
+}
+
+button {
+	background-color: #3c2413;
+    color: #baafa1;
+	border-radius: 15px;
+	border: none;
+	padding: 2%;
+}
+
+#hero {
+	text-align: center;
+	max-width: 60%;
+	margin: auto;
+}
+
+#featured {
+	max-width: 80%;
+	margin: auto;
+	background-image: url("img/above-pastries.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 10%;
 }
 
 .container {
@@ -81,8 +109,12 @@ h1, h2, h3 {
 	text-align: center;
 }
 
-.menu {
-	text-align:center;
+.bg-img {
+	opacity: 50%;
+}
+
+.menu, .specialties {
+	text-align: center;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -91,9 +123,9 @@ h1, h2, h3 {
     margin: auto;
 }
 
-.menu-item {
+.menu-item, .specialty {
     width: 250px;
-    background: #fff;
+    background: #baafa1;
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
