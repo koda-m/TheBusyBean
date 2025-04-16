@@ -123,10 +123,6 @@ button {
     margin: auto;
 }
 
-.specialties {
-	border-radius: 10px;
-}
-
 .menu-item, .specialty {
     width: 250px;
     background: #baafa1;
@@ -157,6 +153,35 @@ button {
 .sitemap-links a {
 	color: #3c2413;
 	text-decoration: none;
+}
+
+.hours-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.hours-block {
+  background-color: #baafa1;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  padding: 2rem 3rem;
+  max-width: 60%;
+  text-align: center;
+}
+
+.hours-block h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #4b2e2e; /* Coffee brown */
+}
+
+.hours-block ul {
+  list-style-type: none;
+  line-height: 2;
+  color: #333;
 }
 
 
