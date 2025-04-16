@@ -123,6 +123,10 @@ button {
     margin: auto;
 }
 
+.specialties {
+	border-radius: 10px;
+}
+
 .menu-item, .specialty {
     width: 250px;
     background: #baafa1;
