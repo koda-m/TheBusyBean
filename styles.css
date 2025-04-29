@@ -99,7 +99,7 @@ button {
 }
 
 #beans{
-	max-width: 80%;
+	max-width: 90%;
 }
 
 .ingredients{
@@ -195,4 +195,18 @@ button {
     padding: 10px;
     width: 100%;
 	}		
+	
+	.container, .ingredients {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+	
+	.img-left {
+		width: 100%;
+	}
+	
+	#beans {
+		display: none;
+	}
 }
